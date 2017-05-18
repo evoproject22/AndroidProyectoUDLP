@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/Opcion"
+        android:title="Inicio"
+        />
+
+    <item
+        android:id="@+id/Opcion1"
+        android:title="Tienda"
+        />
+
+    <item
+        android:id="@+id/Opcion2"
+        android:title="Resultados"
+         />
+    <item
+        android:id="@+id/Opcion3"
+        android:title="Videoteca"
+        />
+
+    <item
+        android:id="@+id/Opcion4"
+        android:title="Salir de la App"
+        />
+
+</menu>
